@@ -4,7 +4,7 @@
 local einMensch = {
     28,
     "Alex",
-    "Programmierer"
+    "Noob"
 }
 
 -- Einzelne Elemente aus der "Klasse" aufrufen
